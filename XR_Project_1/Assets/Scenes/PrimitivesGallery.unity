@@ -3086,7 +3086,7 @@ GameObject:
   - component: {fileID: 1792147015}
   m_Layer: 0
   m_Name: Capsule_shape
-  m_TagString: Sphere
+  m_TagString: Capsule
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
